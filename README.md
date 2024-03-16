@@ -1,6 +1,8 @@
 ## Hi Welcome, i'm KANGBEOM LIM 👋
-### Backend Developer
-
+**I’m a Back-end developer.**  
+**I‘m currently majoring in software at Chonnam National University.  
+My goal is to become a developer who creates services that can contribute to the development of society.**  
+  
 🛠️ Stacks  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
