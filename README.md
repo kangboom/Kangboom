@@ -26,7 +26,7 @@ My goal is to become a developer who creates services that can contribute to the
 
 🌱 Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangboom&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangboom&show_icons=true&theme=ambient_gradient)
 
 <!--
 **Kangboom/Kangboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
