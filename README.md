@@ -24,7 +24,9 @@ My goal is to become a developer who creates services that can contribute to the
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkl6147)](https://solved.ac/jkl6147/)
 
+🌱 Github stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangboom&show_icons=true&theme=dracula)
 
 <!--
 **Kangboom/Kangboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
